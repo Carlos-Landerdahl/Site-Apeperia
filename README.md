@@ -7,5 +7,5 @@ https://yoksel.github.io/flex-cheatsheet/#section-flex-direction
 http://mobileinputtypes.com/
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/#background
 
-Aqui deixo um jogo para fixação de como usar o display "Flex".
+Aqui deixo um jogo para fixação > Como usar o display "Flex":
 https://flexboxfroggy.com/
